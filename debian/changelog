@@ -1,3 +1,9 @@
+pycassa (1.7.0) natty; urgency=low
+
+  * building 1.7.0 dev version for natty
+
+ -- Neil Williams <neil@reddit.com>  Wed, 30 May 2012 11:29:42 -0700
+
 pycassa (1.1.0) unstable; urgency=low
 
   * initial packaging
